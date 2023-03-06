@@ -1,8 +1,11 @@
 # Weather-Report-Forecasting-Analysis
 Weather forecasting analysis using Python and SQL for pre-processing and analysing and Tableau for visualization
 
+Project description from HiCounselor website: [Link](https://hicounselor.com/hc_projects)
 
 This project aims to provide accurate and reliable weather predictions based on global meteorological surface and upper-air observations. By pre-processing and analyzing the data using SQL and Python, and visualizing it using Tableau, we can help users gain insights into upcoming weather conditions.
+
+
 
 Our dataset contains day-wise weather attributes from 2022 to July 2033 (predicted data).
 
