@@ -19,9 +19,9 @@ In this module, you will query the dataset using SQL to gain insights from the d
 
 Subtask 1: Correct years for given data set
 
-Subtask 2: removal of duplicate rows and duplicate Columns
+Subtask 2: Removal of duplicate rows and duplicate Columns
 
-Subtask 3: fix a few labels in the given data set
+Subtask 3: Fix a few labels in the given data set
 
 Subtask 4: Encoding data into suitable format
 
